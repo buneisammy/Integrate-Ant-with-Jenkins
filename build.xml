@@ -2,6 +2,9 @@
 <project name="Hello World Project" default="info">
 <target name="info">
 <echo> Hello World - Welcome to Simplilearn</echo>
+<echo> We are going to learn about Jenkins integration with Ant.</echo>
+<echo>Ant is used to build Java applications.</echo>
+<echo>We use Ant and Jenkins to automate Java applications deployment</echo>
 </target>
 </project>
 
